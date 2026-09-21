@@ -1,2 +1,4 @@
 скрипт сделан хэш трэшом епт
 + дипсик
+сам скрипт: loadstring(game:HttpGet("https://raw.githubusercontent.com/n03555496-glitch/quindex-hub/refs/heads/main/quind_v5.lua"))()
+
